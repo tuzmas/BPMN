@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T18:06:50.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RbUxnz1_TdR7DHyORc7q" version="24.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-12T18:07:08.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oAheQOVAkM9azgcrmmQJ" version="24.0.5" type="github" pages="2">
   <diagram name="Страница — 1" id="VCDJ95G3ZWjjhpqe2b2W">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,9 +375,6 @@
         </mxCell>
         <mxCell id="A05Jj-2Q0ebtKLaCxtoe-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Поступил заказ от клиента на кухню&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="90" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8bPmHtwhaSbDscPknEY--1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=eventInt;symbol=compensation;" vertex="1" parent="1">
-          <mxGeometry x="490" y="140" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

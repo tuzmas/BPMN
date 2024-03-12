@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T18:13:26.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XrzmRTVrVkaXsDAuLMqX" version="24.0.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-12T18:15:06.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4a8xuIe7SVvs4okjrv4o" version="24.0.5" type="github" pages="3">
   <diagram name="Страница — 1" id="VCDJ95G3ZWjjhpqe2b2W">
     <mxGraphModel dx="1323" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,6 +393,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eBIeVKJ-Vdc4Sw_x_bMz-1" value="Финансист" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

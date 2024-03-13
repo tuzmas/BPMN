@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T17:33:00.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9YPPFEbOsm40MUiiFAt8" version="24.0.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-13T17:33:59.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="H9UdhrkAQD_JI99INq-M" version="24.0.5" type="github" pages="3">
   <diagram name="Страница — 1" id="VCDJ95G3ZWjjhpqe2b2W">
     <mxGraphModel dx="1588" dy="2116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="-1120" width="1200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X4V-w88C6NCEwVWpJgK1-3" value="Хостес&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="40" y="-1000" width="1480" height="320" as="geometry" />
+          <mxGeometry x="40" y="-997" width="1699" height="317" as="geometry" />
         </mxCell>
         <mxCell id="X4V-w88C6NCEwVWpJgK1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="X4V-w88C6NCEwVWpJgK1-3" source="X4V-w88C6NCEwVWpJgK1-4" target="X4V-w88C6NCEwVWpJgK1-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -276,7 +276,7 @@
           <mxGeometry x="290" y="-60" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-iJphdCgE6GtI9C4SPPY-41" value="Официант" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-680" width="1480" height="250" as="geometry" />
+          <mxGeometry x="40" y="-679" width="1698" height="249" as="geometry" />
         </mxCell>
         <mxCell id="-iJphdCgE6GtI9C4SPPY-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-iJphdCgE6GtI9C4SPPY-41" source="X4V-w88C6NCEwVWpJgK1-21" target="-iJphdCgE6GtI9C4SPPY-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -352,7 +352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-iJphdCgE6GtI9C4SPPY-53" value="Кухня" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-430" width="1480" height="210" as="geometry" />
+          <mxGeometry x="40" y="-430" width="1697" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-iJphdCgE6GtI9C4SPPY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-iJphdCgE6GtI9C4SPPY-53" source="-iJphdCgE6GtI9C4SPPY-66" target="-iJphdCgE6GtI9C4SPPY-69" edge="1">
           <mxGeometry relative="1" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T10:26:03.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="J-sHuptruJ-Yxkq7uMTz" version="24.0.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-13T15:54:55.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8q04HqvK7BmoAJ4QadB_" version="24.0.5" type="github" pages="3">
   <diagram name="Страница — 1" id="VCDJ95G3ZWjjhpqe2b2W">
     <mxGraphModel dx="1764" dy="2218" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,9 +360,6 @@
         </mxCell>
         <mxCell id="-iJphdCgE6GtI9C4SPPY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="-iJphdCgE6GtI9C4SPPY-57" target="-iJphdCgE6GtI9C4SPPY-66">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-iJphdCgE6GtI9C4SPPY-81" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-670" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-iJphdCgE6GtI9C4SPPY-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-iJphdCgE6GtI9C4SPPY-82" target="-iJphdCgE6GtI9C4SPPY-79">
           <mxGeometry relative="1" as="geometry" />

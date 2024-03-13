@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T17:42:31.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ook4UjuGraO9nJNs4_SO" version="24.0.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-13T17:42:45.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7V7W0cHJdpgbh-atN7xo" version="24.0.5" type="github" pages="3">
   <diagram name="Страница — 1" id="VCDJ95G3ZWjjhpqe2b2W">
     <mxGraphModel dx="1588" dy="2116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -355,6 +355,9 @@
         <mxCell id="RuhjXUxPbs46P9x9S8iF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-iJphdCgE6GtI9C4SPPY-41" source="RuhjXUxPbs46P9x9S8iF-12" target="X4V-w88C6NCEwVWpJgK1-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RuhjXUxPbs46P9x9S8iF-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;чек&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-iJphdCgE6GtI9C4SPPY-41">
+          <mxGeometry x="1413" y="56" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="X4V-w88C6NCEwVWpJgK1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="X4V-w88C6NCEwVWpJgK1-14" target="4H6GxObWkdJtgANQntHv-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -418,9 +421,6 @@
         </mxCell>
         <mxCell id="-iJphdCgE6GtI9C4SPPY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" parent="1" source="-iJphdCgE6GtI9C4SPPY-57" target="-iJphdCgE6GtI9C4SPPY-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RuhjXUxPbs46P9x9S8iF-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;чек&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1243" y="-597" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
